@@ -9,3 +9,6 @@ If you wish to view the code and run unit tests, please use the name-sorter and 
 I've included a published executable for Windows 10 if your device runs it. The executable should run on other OS's as well, but I haven't had time to check it.
 
 A basic Travis build pipeline has also been set up.
+##### UPDATE #######
+Travis is currently unable to run this due to an issue with Travis and .NETCore
+See: https://travis-ci.community/t/c-builds-are-failing-net-core-installation-error/3063/5
