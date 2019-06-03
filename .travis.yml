@@ -1,5 +1,7 @@
 language: csharp
 solution: name-sorter.sln
+mono: none
+sudo: required
 dotnet: 2.2
 script:
     - dotnet restore
