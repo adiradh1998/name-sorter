@@ -1,0 +1,14 @@
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\win10-x64\name-sorter.exe
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\win10-x64\name-sorter.deps.json
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\win10-x64\name-sorter.runtimeconfig.json
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\win10-x64\name-sorter.runtimeconfig.dev.json
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\win10-x64\name-sorter.dll
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\win10-x64\name-sorter.pdb
+C:\Users\adith\source\repos\name-sorter\name-sorter\obj\Release\netcoreapp2.2\win10-x64\name-sorter.csprojAssemblyReference.cache
+C:\Users\adith\source\repos\name-sorter\name-sorter\obj\Release\netcoreapp2.2\win10-x64\name-sorter.csproj.CoreCompileInputs.cache
+C:\Users\adith\source\repos\name-sorter\name-sorter\obj\Release\netcoreapp2.2\win10-x64\name-sorter.AssemblyInfoInputs.cache
+C:\Users\adith\source\repos\name-sorter\name-sorter\obj\Release\netcoreapp2.2\win10-x64\name-sorter.AssemblyInfo.cs
+C:\Users\adith\source\repos\name-sorter\name-sorter\obj\Release\netcoreapp2.2\win10-x64\name-sorter.dll
+C:\Users\adith\source\repos\name-sorter\name-sorter\obj\Release\netcoreapp2.2\win10-x64\name-sorter.pdb

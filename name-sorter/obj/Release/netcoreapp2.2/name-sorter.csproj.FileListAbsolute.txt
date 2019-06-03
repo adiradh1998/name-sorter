@@ -1,0 +1,5 @@
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\name-sorter.deps.json
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\name-sorter.runtimeconfig.json
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\name-sorter.runtimeconfig.dev.json
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\name-sorter.dll
+C:\Users\adith\source\repos\name-sorter\name-sorter\bin\Release\netcoreapp2.2\name-sorter.pdb
